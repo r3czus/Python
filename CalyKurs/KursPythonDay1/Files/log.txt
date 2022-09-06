@@ -1,0 +1,10 @@
+release: 10
+system: Windows
+architecture: ('32bit', 'WindowsPE')
+uname: uname_result(system='Windows', node='DESKTOP-B66160U', release='10', version='10.0.19041', machine='AMD64', processor='AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD')
+platform: Windows-10-10.0.19041-SP0
+version: 10.0.19041
+procesor: AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD
+branch: tags/v3.8.5
+machine: AMD64
+node: DESKTOP-B66160U

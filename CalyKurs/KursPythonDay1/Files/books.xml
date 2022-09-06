@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<books><book kategoria="lektora"><tytuł>Wesele</tytuł><cena waluta="PLN">30</cena><autor>Stanisław Wyspiański</autor></book><book kategoria="sf"><tytuł>Player One</tytuł><cena waluta="EUR">12.5</cena><autor>Ernest Cline</autor></book><book kategoria="fantsy"><tytuł>Wiedzmin</tytuł><cena waluta="EUR">11</cena><autor>Andrzej Sapkowski</autor></book></books>
